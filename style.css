@@ -1,0 +1,76 @@
+html
+{
+	background-color: gray;
+}
+
+body
+{
+	width: 800px;
+	padding: 10px;
+	margin: 5px auto;
+	border: 3px solid black auto;
+	border-radius: 15px;
+	background-color: white;
+}
+
+#header p a, #profile p a
+{
+	float: right;
+}
+
+h1
+{
+	font-size: 2.5em;
+}
+
+h3
+{
+	font-size: 1.5em;
+}
+
+h4
+{
+	font-size: 1.2em;
+}
+h5
+{
+	font-size: 1.1em;
+}
+
+#search
+{
+	float: right;
+}
+
+textarea
+{
+	resize: none;
+}
+
+#userLogin
+{
+	float: right;
+}
+
+#submitted
+{
+	font-size: 0.8em;
+}
+
+#sortNavbar ul
+{
+	display: flex;
+	text-decoration: none;
+	list-style: none;
+	justify-content: space-between;
+}
+
+#commentsDiv
+{
+	padding-left: 30px;
+}
+
+#memes
+{
+	padding-left: 20px;
+}
